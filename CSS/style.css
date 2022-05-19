@@ -41,8 +41,8 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    width: 50%;
-    min-height: 34rem;
+    width: 40%;
+    min-height: 50rem;
 }
 
 .login {
@@ -83,15 +83,18 @@ body {
     border-radius: 4px;
 }
 
-.instagram-logout {
+.botao {
     color: #0095f6;
     margin-top: 1rem;
+    border: none;
+    background-color: white;
 }
 
 .nao-conta {
-    color: rgb(160, 160, 160)
+    color: black;
+    
 }
 
-.troca-conta {
-    color: #0095f6;
+.rodape {
+    margin-top: 80%;
 }
